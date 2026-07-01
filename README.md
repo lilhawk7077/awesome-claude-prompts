@@ -21,6 +21,7 @@ We hope you find these prompts useful and have fun using Claude!
 * Claude Now has official [Prompt library](https://docs.anthropic.com/claude/prompt-library)
 * [Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 * [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
+* [Vexilo · A field guide to Claude Code](https://vexilo.app/?lang=en) - Visual interactive index of 31 agents · 99 commands · 123 skills · 13 rules, organized around the 5-step workflow. One-click "Teach Claude this handbook" feeds the whole index into a local Claude session in 30 seconds. ([companion repo](https://github.com/lilhawk7077/claude-code-resources))
 
 
 
